@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+QLD+Hand:wght@400..700&display=swap');
+
+body{
+ font-family: "Edu QLD Hand", cursive;
+}
+.container{
+
+
+    width: 1300px;
+    margin-left: 0 auto;
+    padding: 0  20px;
+}
+.visually.hidden{
+    position: absolute;
+    width: 1px;
+    height: 1px;
+   padding: 0;
+   border: 0;
+   clip:rect(0,0,0,0);
+   overflow: hidden;
+   white-space: nowrap;
+   
+}
+h1{
+    box-shadow:  -10px,-10px,10px,5px red
+    box-shadow; inset: 5 px,5px,10px; 
+    box-shadow:5px,5px,10px,red ,-5px,-5px,10px blue;
+}
+
+p{
+    color: rgb(0 0 100)
+}
+
